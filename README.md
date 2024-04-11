@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archit381&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="archit381" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kshitiz-2002&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Kshitiz-2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kshitiz-2002&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Kshitiz-2002" /></p>
 
