@@ -1,8 +1,7 @@
 # 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/archit ojha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit ojha" height="30" width="40" /></a>
-<a href="https://instagram.com/__.archit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.archit" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kshitiz-pandey-637927247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="archit ojha" height="30" width="40" /></a>
 </p>
 
 <br></br>
