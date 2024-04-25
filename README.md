@@ -2,7 +2,7 @@
 
 <br />
 
-I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and nonw have transitioned to learning more about machine learning.
+I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and non I have transitioned to learning more about machine learning.
 <br/>
 
 
