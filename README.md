@@ -5,7 +5,6 @@
 I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and nonw have transitioned to learning more about machine learning.
 <br/>
 
-Currently a Intern at <a href="https://www.foodfuturefoundation.org/">Food Future Foundation</a>
 
 I am currently exploring domains like Natural Language Processing and Computer Vision by integrating their applications in websites/apps which allows me to practise dev as well. I am open to collaborate with you on any AI/ML project that piques my interest
 
