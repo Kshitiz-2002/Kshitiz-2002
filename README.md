@@ -1,4 +1,4 @@
-<h1 align="left"> Hi there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gifs/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Archit</h1>
+<h1 align="left"> Hi there <img src="https://github.com/Aniruddh-482/Aniruddh-482/blob/main/My_Assets/Gifs/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Kshitiz</h1>
 
 <br />
 
