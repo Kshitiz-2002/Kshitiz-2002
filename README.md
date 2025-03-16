@@ -1,4 +1,4 @@
-<h1 align="left"> Hi there <img src="https://github.com/Kshitiz-2002/Kshitiz-2002/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Kshitiz</h1>
+<h1 align="left"> Hi there <img src="https://github.com/Kshitiz-2002/Kshitiz-2002/blob/main/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Kshitiz</h1>
 
 <br /
 
