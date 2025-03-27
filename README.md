@@ -1,6 +1,6 @@
 <h1 align="left"> Hi there <img src="https://github.com/Kshitiz-2002/Kshitiz-2002/blob/main/Hi.gif" alt = "hi" width="40px" height="40px">, I'm Kshitiz</h1>
 
-<br /
+<br />
 
 I am a **AI/ML** Enthusiast and **Full Stack Web/App Developer**. I have a a lot of experience in building websites and mobile apps and non I have transitioned to learning more about machine learning.
 <br/>
